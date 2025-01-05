@@ -13,6 +13,7 @@
 		9F2C6DB52D2A1B170032D581 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9F2C6DB42D2A1B170032D581 /* Base */; };
 		9F2C6DB72D2A1B1F0032D581 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F2C6DB62D2A1B1F0032D581 /* Assets.xcassets */; };
 		9F2C6DBA2D2A1B1F0032D581 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 9F2C6DB92D2A1B1F0032D581 /* Base */; };
+		9F2C6DC22D2A443A0032D581 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F2C6DC12D2A443A0032D581 /* Game.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9F2C6DB62D2A1B1F0032D581 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9F2C6DB92D2A1B1F0032D581 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9F2C6DBB2D2A1B1F0032D581 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9F2C6DC12D2A443A0032D581 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9F2C6DB62D2A1B1F0032D581 /* Assets.xcassets */,
 				9F2C6DB82D2A1B1F0032D581 /* LaunchScreen.storyboard */,
 				9F2C6DBB2D2A1B1F0032D581 /* Info.plist */,
+				9F2C6DC12D2A443A0032D581 /* Game.swift */,
 			);
 			path = "Apple Pie";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9F2C6DB22D2A1B170032D581 /* ViewController.swift in Sources */,
 				9F2C6DAE2D2A1B170032D581 /* AppDelegate.swift in Sources */,
 				9F2C6DB02D2A1B170032D581 /* SceneDelegate.swift in Sources */,
+				9F2C6DC22D2A443A0032D581 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
